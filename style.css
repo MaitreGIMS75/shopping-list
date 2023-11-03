@@ -100,6 +100,10 @@ header h1 {
   color: red;
 }
 
+.edit-mode {
+  color: #ccc;
+}
+
 /* Items */
 
 .items {
